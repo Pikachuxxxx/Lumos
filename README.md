@@ -44,7 +44,7 @@ msbuild /p:Platform=x64 /p:Configuration=Release build/Lumos.sln
 ```
 cd Lumos
 Tools/premake5 xcode4
-xcodebuild -project build/Sandbox.xcodeproj
+xcodebuild -project build/Sandbox.xcodeproj CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
 ```
 
 #### iOS
