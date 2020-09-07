@@ -1,3 +1,6 @@
+<p align="center">
+  <img width=400" src="https://github.com/Pikachuxxxx/Lumos/blob/master/Resources/MacOSIcons/Images.xcassets/AppIcon.appiconset/icon_512%401x.png">
+</p>
 <h1 align="center" style="border-bottom: none;">
   <a href="https://github.com/jmorton06/Lumos/">Lumos Engine</a>
 </h1>
